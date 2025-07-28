@@ -1,1 +1,1 @@
-https://github.com/TonyBlare0919/single-cv
+https://github.com/TonyBlare0919/single-cv.git
